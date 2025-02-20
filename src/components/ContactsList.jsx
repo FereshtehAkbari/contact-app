@@ -1,5 +1,5 @@
 import React from "react";
-import ContactsItem from "./Contactsitem";
+import ContactsItem from "./ContactsItem";
 import styles from "./ContactsList.module.css";
 function ContactsList({ contacts, deleteHandler }) {
   return (
